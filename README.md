@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 style="margin-bottom:0;">Pedro Vinicius Correia de Lima</h1>
 
-<!--
-**PedroViniDev/PedroViniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello%2C+welcome+to+my+profile!!"
+       alt="Typing SVG"
+       style="display:block;margin:0;padding:0;border:0;" />
+</a>
 
-Here are some ideas to get you started:
+<h2 style="margin:0;padding:0;">Contact:</h2>
+<p style="margin-top:4px;margin-bottom:8px;">
+  <a href="https://linkedin.com/in/pedrovinidev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40"
+         style="vertical-align:middle;" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 style="margin:0;padding:0;">Languages:</h2>
+<p style="margin-top:4px;margin-bottom:8px;">
+  <img src="https://skillicons.dev/icons?i=java,c&theme=dark"
+       alt="Languages"
+       style="margin:0;padding:0;" />
+</p>
+
+<h2 style="margin:0;padding:0;">Tools:</h2>
+<p style="margin-top:4px;margin-bottom:8px;">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql,html,css&theme=dark"
+       alt="Tools"
+       style="margin:0;padding:0;" />
+</p>
