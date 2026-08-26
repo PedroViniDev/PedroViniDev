@@ -19,7 +19,7 @@
 
 <h2 style="margin:0;padding:0;">Languages:</h2>
 <p style="margin-top:4px;margin-bottom:8px;">
-  <img src="https://skillicons.dev/icons?i=java,c&theme=dark"
+  <img src="https://skillicons.dev/icons?i=java,c,typescript&theme=dark"
        alt="Languages"
        style="margin:0;padding:0;" />
 </p>
