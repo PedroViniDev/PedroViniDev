@@ -1,7 +1,7 @@
 <h1 style="margin-bottom:0;">Pedro Vinicius Correia de Lima</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello%2C+welcome+to+my+profile!!"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=78288c&width=435&lines=Hello%2C+welcome+to+my+profile!!"
        alt="Typing SVG"
        style="display:block;margin:0;padding:0;border:0;" />
 </a>
@@ -26,7 +26,7 @@
 
 <h2 style="margin:0;padding:0;">Tools:</h2>
 <p style="margin-top:4px;margin-bottom:8px;">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql,html,css&theme=dark"
+  <img src="https://skillicons.dev/icons?i=spring,postgresql,html,css&theme=dark"
        alt="Tools"
        style="margin:0;padding:0;" />
 </p>
